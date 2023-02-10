@@ -1,0 +1,571 @@
+{
+  "docs": [
+    {
+      "title": "Politiet advarer mot e-post: – IKKE trykk",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>Operasjonssentralen hos Agder politidistrikt har fredag kveld fått flere henvendelser fra personer som har fått mail fra «politiet», hvor det står at de er under etterforskning i en alvorlig sak.&nbsp;</p>\n<p>– Denne mailen er ikke fra politiet - IKKE trykk på lenker ei heller besvar denne. Slett mailen, skriver Agder-politiet på Twitter.&nbsp;&nbsp;</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T18:42:39.382Z",
+          "updatedAt": "2023-02-10T18:42:39.382Z",
+          "id": "63e6901f6843519b771953d4"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": ["agder"],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T18:42:38.975Z",
+      "publishedBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "createdBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T18:42:38.987Z",
+      "updatedAt": "2023-02-10T18:42:39.455Z",
+      "id": "63e6901ef07c738e2e9c21f3"
+    },
+    {
+      "title": "Bil på taket ved E6 i Oslo – trolig alvorlig",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>Nødetatene er på vei til Østre Aker vei, like etter avkjøring fra E6, etter at en bil har havnet på taket.</p>\n<p>– Uvisst skadeomfang, men trolig alvorlig, skriver politiet.</p>\n<p>Operasjonsleder Tore Solberg sier til TV 2 at det er en kvinne som er involvert i ulykken.&nbsp;</p>\n<p>– Hun skal være våken og bevisst.&nbsp;</p>\n<p>I en oppdatering skriver politiet at føreren av bilen er kjørt til sykehus.&nbsp;</p>\n<p>Det er ikke kjent hvordan forholdene på stedet er.&nbsp;</p>\n<p>Hele Østre Aker vei er sperret fra avkjøring E6.&nbsp;</p>\n<p>– Det er noe kø, men det glir fint forbi. Politiet dirigerer trafikken forbi, sier Solberg.&nbsp;</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T18:14:14.863Z",
+          "updatedAt": "2023-02-10T18:29:03.923Z",
+          "id": "63e689768ef4924eea394b52"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T18:13:02.126Z",
+      "publishedBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "createdBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T18:13:02.131Z",
+      "updatedAt": "2023-02-10T18:29:03.684Z",
+      "related": {
+        "push": {
+          "url": "https://www.tv2.no/direkte/open-push?postId=63e6892e39c4326ac5474cc8&postUrl=https%3A%2F%2Fwww.tv2.no%2Fdirekte%2Fjpybz%2Fsiste-nytt%2F63e6892e39c4326ac5474cc8%2Fbil-pa-taket-ved-e6-i-oslo-trolig-alvorlig",
+          "user": "8bd3kvfeyrxcn0dx"
+        }
+      },
+      "id": "63e6892e39c4326ac5474cc8"
+    },
+    {
+      "title": "FHI starter munnbindeksperiment – søker 5000 deltakere",
+      "content": [
+        {
+          "type": "PICTURES",
+          "files": [
+            {
+              "filename": "webimage-0694f2ca-0e15-4a85-b194bde72ce1bc10.png",
+              "path": "post/63e68874520c27fd298b3446/content/63e68b4739c4326ac5474e3d",
+              "contentType": "image/png",
+              "fileSize": 502943,
+              "attribution": "Ingvild Gjerdsjø / TV 2",
+              "caption": "FUNKER MUNNBIND? Det vil FHI forsøke å finne ut av med ny studie.",
+              "version": 1,
+              "createdAt": "2023-02-10T18:22:00.509Z",
+              "updatedAt": "2023-02-10T18:22:00.509Z",
+              "id": "63e68b486ac1ed07926f8bd0",
+              "url": "https://breaking-general.aws8.tv2.no/post/63e68874520c27fd298b3446/content/63e68b4739c4326ac5474e3d/63e68b486ac1ed07926f8bd0/webimage-0694f2ca-0e15-4a85-b194bde72ce1bc10.png?v=1"
+            }
+          ],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T18:21:59.907Z",
+          "updatedAt": "2023-02-10T18:22:00.941Z",
+          "id": "63e68b4739c4326ac5474e3d"
+        },
+        {
+          "type": "MARKUP",
+          "data": "<p>FHI søker 5.000 nordmenn som er villige til å bruke munnbind i 14 dager.</p>\n<p>Senter for forskning på epidemitiltak (CEIR) ved Folkehelseinstituttet (FHI) skal nemlig finne ut hvor stor effekten av munnbind er.</p>\n<p>– De siste tre årene er det innført flere tiltak, ofte på et tynt kunnskapsgrunnlag, som har stor påvirkning på folk og næringsliv. Får vi en ny pandemi, er det essensielt at vi vet mer om hvordan tiltak som munnbindkrav fungerer, sier senterleder Atle Fretheim i en pressemelding.</p>\n<p>Norske helsemyndigheter ville i starten av pandemien ikke anbefale munnbind som smitteverntiltak.&nbsp;</p>\n<p>Siden snudde de, og fra august 2020 kom de første anbefalingene om å bruke munnbind. Det ble også innført påbud om munnbind på offentlige steder der man ikke kunne holde mer enn en meter avstand fra andre.</p>\n<p>De frivillige i studien vil deles i to grupper, hvor den ene gruppen slipper å bruke munnbind. Den andre gruppen skal bruke munnbind ute blant folk, utenom når de er hjemme og på jobb.</p>\n<p>Etter to uker skal alle deltakerne fylle ut et kort spørreskjema, blant annet om symptomer på luftveisinfeksjon, skriver FHI.</p>\n<p>FHI lokker med et gavekort på 5000 kroner, som alle som deltar i studien kan være med i trekningen av.</p>\n<p>Mye tyder på at munnbind har effekt, skriver FHI, men det er stor usikkerhet hvor stor denne beskyttelsen er.&nbsp;</p>\n<p>– Ved å sammenlikne forekomsten av luftveisinfeksjon i de to gruppene, kan vi se om munnbind beskytter, forteller Runar Solberg som er prosjektleder for studien.</p>\n",
+          "files": [],
+          "orderIndex": 1,
+          "createdAt": "2023-02-10T18:11:21.724Z",
+          "updatedAt": "2023-02-10T18:40:13.459Z",
+          "id": "63e688c9808d0110561e1c3d"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T18:09:56.695Z",
+      "publishedBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "createdBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T18:09:56.701Z",
+      "updatedAt": "2023-02-10T18:40:13.191Z",
+      "id": "63e68874520c27fd298b3446"
+    },
+    {
+      "title": "Stenseng om Giske: – Fortsatt venner",
+      "content": [
+        {
+          "type": "PICTURES",
+          "files": [
+            {
+              "filename": "hd-jpg-arsmote-trondheim-arbeiderparti-06.jpg",
+              "path": "post/63e68600520c27fd298b31c0/content/63e6860153f519484f91c5c6",
+              "contentType": "image/jpeg",
+              "fileSize": 383787,
+              "version": 1,
+              "createdAt": "2023-02-10T17:59:29.447Z",
+              "updatedAt": "2023-02-10T18:03:41.509Z",
+              "attribution": "Kristin Grønning / TV 2",
+              "caption": "Kjersti Stenseng og Trond Giske ga hverandre en klem på årsmøtet til Trondheim AP fredag.",
+              "id": "63e6860139c4326ac5474af9",
+              "url": "https://breaking-general.aws8.tv2.no/post/63e68600520c27fd298b31c0/content/63e6860153f519484f91c5c6/63e6860139c4326ac5474af9/hd-jpg-arsmote-trondheim-arbeiderparti-06.jpg?v=1"
+            }
+          ],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:59:29.076Z",
+          "updatedAt": "2023-02-10T18:03:41.581Z",
+          "id": "63e6860153f519484f91c5c6"
+        },
+        {
+          "type": "MARKUP",
+          "data": "<p>Torsdag kveld barket partisekretær Kjersti Stenseng og lokallagsleder Trond Giske i Arbeiderpartiet sammen i NRK-programmet Debatten i en anspent diskusjon om endring av vedtekter som vil strupe makten til Giskes lokallag Nidaros.</p>\n<p>Fredag møttes de to igjen på årsmøtet til Trondheim Ap, og da var stemningen litt mer hjertelig. Foran fotografene poserte de to også med å gi hverandre en klem.</p>\n<p>– Jeg og Trond har en god relasjon vi.</p>\n<p><em>– Er dere venner?</em></p>\n<p>– Ja, vi er fortsatt venner. Denne diskusjonen er jo ikke om meg mot Trond, men om hvilke vedtektsendringer som står seg best over tid, sier Stenseng til TV 2.</p>\n",
+          "files": [],
+          "orderIndex": 1,
+          "createdAt": "2023-02-10T17:59:30.597Z",
+          "updatedAt": "2023-02-10T17:59:30.597Z",
+          "id": "63e68602808d0110561e1999"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:59:28.698Z",
+      "publishedBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "createdBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:59:28.706Z",
+      "updatedAt": "2023-02-10T18:03:40.889Z",
+      "id": "63e68600520c27fd298b31c0"
+    },
+    {
+      "title": "Riksadvokaten ber om at folk som uriktig har sonet for bøter, skal kontaktes",
+      "content": [
+        {
+          "type": "PICTURES",
+          "files": [
+            {
+              "filename": "/o3m9b9ej5r4",
+              "path": "post/63e685198ef4924eea394854/content/63e685198ef4924eea39485d",
+              "contentType": "image/jpeg",
+              "fileSize": 130591,
+              "attribution": null,
+              "caption": "Illustrasjonsfoto: Gorm Kallestad / NTB",
+              "version": 1,
+              "createdAt": "2023-02-10T17:55:38.496Z",
+              "updatedAt": "2023-02-10T17:55:38.496Z",
+              "id": "63e6851a808d0110561e18ba",
+              "url": "https://breaking-general.aws8.tv2.no/post/63e685198ef4924eea394854/content/63e685198ef4924eea39485d/63e6851a808d0110561e18ba//o3m9b9ej5r4?v=1"
+            }
+          ],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:55:37.734Z",
+          "updatedAt": "2023-02-10T17:55:38.829Z",
+          "id": "63e685198ef4924eea39485d"
+        },
+        {
+          "type": "MARKUP",
+          "data": "<p>Riksadvokaten mener at politiet må kontakte folk som uriktig kan ha sonet i fengsel for bøter. Mange kan ha krav på erstatning.</p>\n<p>Riksadvokaten oppdaget i fjor at politiet har behandlet saker i strid med loven i tilfeller om fengselssoning når noen ikke kan betale bøter.</p>\n<p>Politiets praksis der en politiadvokat eller politifullmektig ikke har vært involvert i beslutningen om soning, har gjort at mange kan ha sittet i fengsel ulovlig.</p>\n<p>De som har sonet ulovlig, kan ha krav på erstatning, og nå mener Riksadvokaten at disse skal kontaktes så de kan søke erstatning, skriver   <a href=\"https://www.vg.no/nyheter/innenriks/i/P4nddz/slik-vil-riksadvokaten-at-ulovlig-boetestraff-praksis-kan-loeses\" target=\"_self\">VG</a>.</p>\n<p>– Etter riksadvokatens syn kreves en aktiv innsats fra påtalemyndighetens side for å rette opp i urett som er begått mot personer som har sonet uten at det forelå en gyldig beslutning om fullbyrding av den subsidiære fengselsstraffen, skriver Riksadvokaten i et brev til Justisdepartementet.</p>\n<p>Det er nå laget et skriv som politiet skal sende til personer som man antar at har sonet ulovlig. Det inneholder et skjema som skal senke terskelen for å fremsette krav om erstatning eller oppreisning.</p>\n<p>Det er ikke klart hvor mange som har sonet ulovlig. Ifølge VG har over 4.000 bøtelagte personer blitt innkalt til soning fra kravet om at en politijurist må involveres i beslutningen trådte i kraft i 2015 til i fjor høst.</p>\n<p>(©NTB)</p>\n",
+          "files": [],
+          "orderIndex": 1,
+          "createdAt": "2023-02-10T17:55:39.661Z",
+          "updatedAt": "2023-02-10T17:55:54.777Z",
+          "id": "63e6851b53f519484f91c4e7"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": ["riksadvokaten", "bøter", "erstatning"],
+      "related": {
+        "ntb": {
+          "id": "NTBc155c1c8-a8ad-444e-8c22-a45eab0fab0d",
+          "importedBy": "johannes.steen@tv2.no"
+        }
+      },
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:55:37.342Z",
+      "publishedBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "createdBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:55:37.349Z",
+      "updatedAt": "2023-02-10T17:55:54.504Z",
+      "id": "63e685198ef4924eea394854"
+    },
+    {
+      "title": "FN: Fem millioner syrere hjemløse etter jordskjelv",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>Rundt 5,3 millioner syrere er hjemløse etter jordskjelvene som rammet området mandag, sier FNs høykommissær for flyktninger (UNHCR).</p>\n<p>– For Syria er dette en krise innenfor en krise. Vi har hatt økonomiske sjokk, covid og nå er vi midt på vinteren med snøvær i de berørte områdene, sier UNHCR i en   <a href=\"https://www.unhcr.org/news/briefing/2023/2/63e652994/unhcr-5-million-displaced-syria-quake.html\" target=\"_self\">pressemelding </a><br>fredag.</p>\n<p>Flyktningkommissæren sier at mange av deres egne folk sover utendørs fordi de er redd for at bygningene de bor i, har fått strukturelle skader.</p>\n<p>Ifølge UNHCR er 6,8 millioner mennesker internflyktninger i Syria allerede før jordskjelvene. Ødelagte veier hindrer dem i å få fram hjelp.</p>\n<p>De hvite hjelmer, som er en frivillig lokal sivilforsvarsgruppe, har kritisert FN for ikke å ha sendt humanitær hjelp til de opprørskontrollerte områdene av Syria.</p>\n<p>UNHCR sier at ødelagte veier har gjort det vanskelig å få fram hjelp. En kolonne med seks lastebiler kom torsdag over grensa fra Tyrkia etter at veien til grensa var reparert.</p>\n<p>Fredag åpnet regimet til president Bashar al-Assad for at humanitær hjelp kan leveres også til opprørskontrollerte områder.</p>\n<p>(©NTB)</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:40:06.894Z",
+          "updatedAt": "2023-02-10T17:40:22.965Z",
+          "id": "63e68176808d0110561e15b9"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        },
+        {
+          "slug": "jordskjelv-i-tyrkia-og-syria-siste-nytt",
+          "name": "Jordskjelvet i Tyrkia og Syria",
+          "key": "tgtpn",
+          "background": {
+            "filename": "ntb0nnzxgxpshc.jpg",
+            "path": "portals/63e22b233a265b125e17a795",
+            "contentType": "image/jpeg",
+            "fileSize": 9191439,
+            "version": 1,
+            "createdAt": "2023-02-07T10:44:46.562Z",
+            "updatedAt": "2023-02-07T11:07:17.252Z",
+            "attribution": "REUTERS/Umit Bektas",
+            "id": "63e22b9e16d93cafe061e98d",
+            "url": "https://breaking-general.aws8.tv2.no/portals/63e22b233a265b125e17a795/63e22b9e16d93cafe061e98d/ntb0nnzxgxpshc.jpg?v=1"
+          },
+          "id": "63e22b233a265b125e17a795"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": ["syria", "skjelv", "hjemløse"],
+      "related": {
+        "ntb": {
+          "id": "NTB30bc2913-65ae-45e3-a5e7-34bd6e5997a6",
+          "importedBy": "olinebirgitte.nave@tv2.no"
+        }
+      },
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:40:06.041Z",
+      "publishedBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "createdBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:40:06.048Z",
+      "updatedAt": "2023-02-10T17:40:22.666Z",
+      "id": "63e68176b3e49c1272619c32"
+    },
+    {
+      "title": "Kraftig eksplosjon ved bolighus i Helsingborg",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>Svensk politi melder at de har fått flere telefoner om et kraftig smell ved et bolighus i Dalheim-området i Helsingborg.</p>\n<p>Politiet skriver at det er omfattende skader på fasaden på huset.</p>\n<p>Det er ikke meldt om personskader.</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:39:34.040Z",
+          "updatedAt": "2023-02-10T17:39:34.040Z",
+          "id": "63e6815653f519484f91c12a"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:37:54.171Z",
+      "publishedBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "createdBy": {
+        "id": "1ittbmb7rzphkt4r",
+        "email": "johannes.steen@tv2.no",
+        "firstName": "Johannes",
+        "lastName": "Steen",
+        "fullName": "Johannes Steen"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:37:54.177Z",
+      "updatedAt": "2023-02-10T17:39:34.110Z",
+      "id": "63e680f2b3e49c1272619bc6"
+    },
+    {
+      "title": "Kraftig jordskjelv registrert nær Tonga",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>Et jordskjelv med en styrke på 5,3 er registrert i nærheten av øystaten Tonga, melder seismologisenteret EMSC ifølge Reuters.&nbsp;</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:31:53.645Z",
+          "updatedAt": "2023-02-10T17:35:26.805Z",
+          "id": "63e67f8953f519484f91bfd3"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:31:53.231Z",
+      "publishedBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "createdBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:31:53.237Z",
+      "updatedAt": "2023-02-10T17:35:26.553Z",
+      "id": "63e67f8939c4326ac547461c"
+    },
+    {
+      "title": "Fransk TV-stasjon: Mann avfyrte syv skudd fra balkong i Paris",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>En mann avfyrte syv skudd fra en balkong i Paris fredag kveld, melder TV-kanalen BFM ifølge Reuters.&nbsp;</p>\n<p>Politiet opplyser at området er sperret av. De ber folk om å unngå området.&nbsp;</p>\n<p>Det er foreløpig ikke kjent om det er personskader som følge av skytingen.&nbsp;</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:28:27.875Z",
+          "updatedAt": "2023-02-10T17:39:29.101Z",
+          "id": "63e67ebb39c4326ac547457a"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": ["paris", "frankrike", "skyting"],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:25:34.388Z",
+      "publishedBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "createdBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:25:34.395Z",
+      "updatedAt": "2023-02-10T17:39:43.138Z",
+      "related": {
+        "push": {
+          "url": "https://www.tv2.no/direkte/open-push?postId=63e67e0e8ef4924eea39415e&postUrl=https%3A%2F%2Fwww.tv2.no%2Fdirekte%2Fjpybz%2Fsiste-nytt%2F63e67e0e8ef4924eea39415e%2Ffransk-tvstasjon-mann-avfyrte-syv-skudd-fra-balkong-i-paris",
+          "user": "q3in8g16zjfvopuh"
+        }
+      },
+      "id": "63e67e0e8ef4924eea39415e"
+    },
+    {
+      "title": "USA: Ingen indikasjon på militær trussel mot Moldova eller Romania",
+      "content": [
+        {
+          "type": "MARKUP",
+          "data": "<p>USA har ingen informasjon som tyder på at det er en direkte militær trussel mot Moldova eller Romania på nåværende tidspunkt.&nbsp;</p>\n",
+          "files": [],
+          "orderIndex": 0,
+          "createdAt": "2023-02-10T17:24:57.421Z",
+          "updatedAt": "2023-02-10T17:24:57.421Z",
+          "id": "63e67de9808d0110561e11cc"
+        }
+      ],
+      "portals": [
+        {
+          "slug": "siste-nytt",
+          "name": "Nå",
+          "key": "jpybz",
+          "id": "6305e5da637f90fb8ebb14eb"
+        }
+      ],
+      "category": "NYHETER",
+      "topics": [],
+      "pinned": false,
+      "important": false,
+      "publishedAt": "2023-02-10T17:24:56.965Z",
+      "publishedBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "createdBy": {
+        "id": "dsv6sbyzphgroagv",
+        "email": "olinebirgitte.nave@tv2.no",
+        "firstName": "Oline Birgitte",
+        "lastName": "Nave",
+        "fullName": "Oline Birgitte Nave"
+      },
+      "deleted": false,
+      "createdAt": "2023-02-10T17:24:56.972Z",
+      "updatedAt": "2023-02-10T17:24:57.498Z",
+      "id": "63e67de8bd07bd6f5711e704"
+    }
+  ],
+  "totalDocs": 12584,
+  "limit": 10,
+  "page": 1,
+  "totalPages": 1259,
+  "pagingCounter": 1,
+  "hasPrevPage": false,
+  "hasNextPage": true,
+  "prevPage": null,
+  "nextPage": 2
+}
