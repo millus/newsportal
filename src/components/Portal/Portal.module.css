@@ -1,0 +1,9 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    font-size: 14px;
+}
+
+.list {
+    list-style: none;
+}
