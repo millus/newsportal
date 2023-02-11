@@ -1,4 +1,4 @@
-export async function getAllPortals({}) {
+export async function getAllPortals() {
     const url = `https://breaking-api.alpha.tv2.no/v1/public/portals?page=1`;
     const response = await fetch(url);
     const json = await response.json();

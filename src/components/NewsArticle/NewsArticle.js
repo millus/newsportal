@@ -5,7 +5,7 @@ import styles from "./NewsArticle.module.css";
 function NewsArticle({ article }) {
   return (
     <article className={styles.article}>
-      <a href="">
+      <a href={article?.related?.push?.url}>
         <div className={styles.imagecontainer}>
           <div className={styles.svgImage}>
             <svg viewBox="0 0 750 750" preserveAspectRatio="xMidYMid meet">
