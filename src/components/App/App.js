@@ -1,7 +1,7 @@
 import React from "react";
 import { getAllPortals } from "../../helper/APIHelper";
 import logo from "../../logo.svg";
-import NewsArticle from "../NewsArticle/NewsArticle";
+import Header from "../Header/Header";
 import Portal from "../Portal/Portal";
 import "./App.css";
 
@@ -29,10 +29,12 @@ function App() {
 
   return (
     <div className="App">
-      {portalList.map(portal => (
-        <button key={Math.random()} onClick={() => changePortal(portal)}>{portal.name}</button>
-      ))}
-      {portal && <Portal portalId={portal.id}></Portal>}
+      <Header portalList={portalList} changePortal={changePortal}></Header>
+      {portal ? (
+        <Portal portalId={portal.id}></Portal>
+      ) : (
+        <h2>Beklager ingen portaler tilgjengelig.</h2>
+      )}
     </div>
   );
 }
