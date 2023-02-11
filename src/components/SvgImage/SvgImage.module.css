@@ -1,0 +1,38 @@
+.svgImage {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1;
+    bottom: -10px;
+    transition: bottom 0.2s ease-in-out;
+  }
+  
+  .svgBorder {
+    fill: #984aff;
+  }
+  
+  .svgBackground {
+    fill: #f6f1ff;
+  }
+  
+  .svgBackgroundImg {
+    fill: #9285a7;
+  }
+  
+  svg {
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .svgImage img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 99%;
+    z-index: -1;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+  }

@@ -1,5 +1,4 @@
 import React from "react";
-
 import { getAllPortals } from "../../helper/APIHelper";
 import logo from "../../logo.svg";
 import NewsArticle from "../NewsArticle/NewsArticle";
@@ -31,7 +30,7 @@ function App() {
   return (
     <div className="App">
       {portalList.map(portal => (
-        <button onClick={() => changePortal(portal)}>{portal.name}</button>
+        <button key={Math.random()} onClick={() => changePortal(portal)}>{portal.name}</button>
       ))}
       {portal && <Portal portalId={portal.id}></Portal>}
     </div>
