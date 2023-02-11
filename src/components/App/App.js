@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header portalList={portalList} changePortal={changePortal}></Header>
+      <Header portalList={portalList} changePortal={changePortal} portal={portal}></Header>
       {portal ? (
         <Portal portalId={portal.id}></Portal>
       ) : (
