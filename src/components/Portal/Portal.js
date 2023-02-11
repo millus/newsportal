@@ -1,11 +1,9 @@
 import React from "react";
 import { getNews } from "../../helper/APIHelper";
-import posts from "../../posts.json";
 import NewsArticle from "../NewsArticle/NewsArticle";
 import styles from "./Portal.module.css";
 
 function Portal({portalId}) {
-  const postsData = [...posts.docs];
   const [articleList, setArticleList] = React.useState([]);
   
   React.useEffect(() => {
@@ -15,14 +13,16 @@ function Portal({portalId}) {
   }, [portalId])
   
   return (
-    <ul className={styles.list}>
+    <>
+    
+    <section className={styles.grid}>
       {articleList.map((article) => (
-        <li key={article.id}>
-          <h2 className={styles.title}>{article.title}</h2>
+        <div key={article.id}>
           <NewsArticle article={article}></NewsArticle>
-        </li>
+        </div>
       ))}
-    </ul>
+    </section>
+    </>
    
   );
 }

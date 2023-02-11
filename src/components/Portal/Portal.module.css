@@ -2,8 +2,15 @@
     font-family: 'Courier New', Courier, monospace;
     color: blueviolet;
     font-size: 14px;
+    max-width: 300px;
 }
 
-.list {
-    list-style: none;
+.grid {
+    display: flex;
+    max-width: 1024px;
+    gap: 24px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 42px;
 }
