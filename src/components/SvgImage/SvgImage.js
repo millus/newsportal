@@ -4,7 +4,7 @@ import styles from "./SvgImage.module.css";
 function SvgImage({alt, src}) {
   return (
     <div className={styles.svgImage}>
-      <svg viewBox="0 0 750 750" preserveAspectRatio="xMidYMid meet">
+      <svg viewBox="0 0 745 745" preserveAspectRatio="xMidYMid meet">
         <g>
           <path
             className={styles.svgBackgroundImg}

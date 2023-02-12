@@ -86,16 +86,17 @@
   flex-direction: column;
   align-content: flex-end;
   text-align: left;
-  box-shadow: 0px 4px 24px 5px rgba(114, 114, 114, 0.15);
+  box-shadow: 0px 8px 24px 5px rgba(18, 18, 18, 0.27);
   scroll-snap-align: center;
 }
 
 .button span {
-  background-color: #1f1136;
+    background-color: #1f1136;
 }
 
 @media screen and (min-width: 700px) {
   .button {
+    cursor: pointer;
     height: 200px;
     max-width: 200px;
   }
