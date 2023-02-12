@@ -4,13 +4,19 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  padding: 24px 48px;
+  padding: 24px;
+}
+
+@media screen and (min-width: 700px) {
+  .header {
+    padding: 24px 48px;
+  }
 }
 
 .title {
-    color:rgb(239, 224, 255);
-    font-size: 16px;
-    text-align: left;
+  color: rgb(239, 224, 255);
+  font-size: 24px;
+  text-align: left;
 }
 
 .heading {
@@ -18,9 +24,14 @@
   color: rgb(239, 224, 255);
   align-self: flex-start;
   display: flex;
-  font-size: 72px;
+  font-size: 32px;
   text-align: left;
-  margin-top: 36px;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 700px) {
+  font-size: 72px;
 }
 
 .wrapper {
@@ -29,7 +40,7 @@
   align-items: center;
   width: 100%;
   max-width: 900px;
-  margin: 24px auto;
+  margin: 8px auto;
   gap: 16px;
   word-break: break-word;
 }
@@ -39,6 +50,7 @@
     flex-wrap: wrap;
     min-width: 200px;
     gap: 24px;
+    margin: 24px auto;
   }
 }
 

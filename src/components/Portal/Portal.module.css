@@ -13,11 +13,12 @@
     flex-direction: row;
     justify-content: center;
     margin: 0 auto;
-    margin-top: 42px;
+    margin-top: 24px;
 }
 
 @media screen and (min-width: 700px) {
     .grid {
         justify-content: left;
+        margin-top: 42px;
     }
 }

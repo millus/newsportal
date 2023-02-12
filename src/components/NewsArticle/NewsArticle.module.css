@@ -27,25 +27,36 @@
   }
 }
 
-.imgWrapper {
-  
-}
-
 .textWrapper {
   width: auto;
   background-color: #f6f1ff;
-  padding: 48px;
-  border-radius: 32px;
+  padding: 32px 24px;
+  border-radius: 24px;
   z-index: 2;
   position: relative;
   flex-basis: 100%;
+  max-width: 100vw;
+}
+
+@media screen and (min-width: 700px) {
+  .textWrapper {
+    padding: 48px;
+  }
 }
 
 .title {
-  padding: 16px 0;
+  padding: 0;
+  margin: 0;
   text-align: left;
-  margin-top: 0;
-  font-size: 36px;
+  font-size: 32px;
+}
+
+@media screen and (min-width: 700px) {
+  .title {
+    font-size: 36px;
+    line-height: 36px;
+  }
+
 }
 
 .markup {

@@ -9,6 +9,7 @@ function App() {
   const [portalList, setPortalList] = React.useState([]);
   const [loading, setLoading] = React.useState(true);
   const [portal, setPortal] = React.useState(null);
+  const contentRef = React.useRef(null);
 
   React.useEffect(() => {
     getAllPortals().then((json) => {
@@ -29,12 +30,19 @@ function App() {
 
   return (
     <div className="App">
-      <Header portalList={portalList} changePortal={changePortal} portal={portal}></Header>
-      {portal ? (
-        <Portal portalId={portal.id}></Portal>
-      ) : (
-        <h2>Beklager ingen portaler tilgjengelig.</h2>
-      )}
+      <Header
+        portalList={portalList}
+        changePortal={changePortal}
+        portal={portal}
+        contentRef={contentRef}
+      ></Header>
+      <div className="content" ref={contentRef}>
+        {portal ? (
+          <Portal portalId={portal.id}></Portal>
+        ) : (
+          <h2>Beklager ingen portaler tilgjengelig.</h2>
+        )}
+      </div>
     </div>
   );
 }
