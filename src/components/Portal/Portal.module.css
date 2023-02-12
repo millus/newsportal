@@ -7,7 +7,7 @@
 
 .grid {
     display: flex;
-    max-width: 1024px;
+    max-width: 800px;
     gap: 24px;
     flex-wrap: wrap;
     flex-direction: row;

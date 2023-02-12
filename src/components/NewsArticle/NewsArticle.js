@@ -17,24 +17,26 @@ function NewsArticle({ article }) {
 
   return (
     <article className={styles.article}>
-      <a href={article?.related?.push?.url}>
+      {/* <a href={article?.related?.push?.url}> */}
+      <div className={styles.imgWrapper}>
         {hasPictures && (
           <SvgImage
             alt={article?.content[0]?.files[0]?.caption}
             src={article?.content[0]?.files[0]?.url}
           ></SvgImage>
         )}
-         <h2 className={styles.title}>{article?.title}</h2>
-        {(hasPictures && hasMarkup) ? (
-          <div
-            dangerouslySetInnerHTML={createMarkup(article?.content[1]?.data)}
-          ></div>
-        ) : (
-          <div
-            dangerouslySetInnerHTML={createMarkup(article?.content[0]?.data)}
-          ></div>
-        )}
-      </a>
+      </div>
+
+      <div className={styles.textWrapper}>
+        <h2 className={styles.title}>{article?.title}</h2>
+        <div
+          className={styles.markup}
+          dangerouslySetInnerHTML={createMarkup(
+            article?.content[hasPictures && hasMarkup ? 1 : 0]?.data
+          )}
+        ></div>
+      </div>
+      {/* </a> */}
     </article>
   );
 }
