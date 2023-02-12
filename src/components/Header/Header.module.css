@@ -31,6 +31,7 @@
   max-width: 900px;
   margin: 24px auto;
   gap: 16px;
+  word-break: break-word;
 }
 
 @media screen and (min-width: 700px) {
