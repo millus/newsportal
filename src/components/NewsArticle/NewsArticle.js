@@ -10,6 +10,8 @@ function NewsArticle({ article }) {
     article?.content[1]?.type === "MARKUP"
   );
   const numMarkup = hasPictures && hasMarkup ? 1 : 0;
+  const hasLongText = article?.content[numMarkup]?.data.length > 500;
+
   function createMarkup(str) {
     return {
       __html: str,
@@ -33,12 +35,12 @@ function NewsArticle({ article }) {
       <div className={styles.textWrapper}>
         <h2 className={styles.title}>{article?.title}</h2>
         <div
-          className={`${styles.markup}  ${isActive ? styles.expand : ""}`}
+          className={`${styles.markup} ${hasLongText ? styles.longText : "" } ${isActive ? styles.expand : ""}`}
           dangerouslySetInnerHTML={createMarkup(
             article?.content[numMarkup]?.data
           )}
         ></div>
-        {article?.content[numMarkup]?.data.length > 500 && (
+        {hasLongText && (
           <button className={styles.readMore} onClick={toggleActive}>
             {isActive ? "Les mindre" : "Les mer"}
           </button>

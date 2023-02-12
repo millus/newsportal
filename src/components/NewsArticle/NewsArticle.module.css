@@ -63,12 +63,15 @@
   max-height: 230px;
   overflow: hidden;
   transition: max-height 0.3s ease-in-out;
-  -webkit-mask-image: linear-gradient(to bottom, black 90%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 90%, transparent 100%);
 }
 
 .markup a {
   color: #6f03ff;
+}
+
+.longText {
+  -webkit-mask-image: linear-gradient(to bottom, black 90%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 90%, transparent 100%);
 }
 
 .expand {
