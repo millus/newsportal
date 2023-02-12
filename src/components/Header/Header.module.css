@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  padding: 24px;
+  padding: 16px 24px;
 }
 
 @media screen and (min-width: 700px) {
@@ -17,6 +17,7 @@
   color: rgb(239, 224, 255);
   font-size: 24px;
   text-align: left;
+  margin-top: 8px;
 }
 
 .heading {
@@ -26,44 +27,71 @@
   display: flex;
   font-size: 32px;
   text-align: left;
-  margin-top: 24px;
-  margin-bottom: 8px;
+  max-width: 900px;
+  padding: 8px;
 }
 
 @media screen and (min-width: 700px) {
-  font-size: 72px;
+  .heading {
+    font-size: 64px;
+    margin: 0 auto;
+  }
 }
 
 .wrapper {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  width: 100%;
+  width: 100vw;
   max-width: 900px;
+  height: 100%;
   margin: 8px auto;
   gap: 16px;
   word-break: break-word;
+  overflow: scroll;
+  scroll-snap-type: x mandatory;
+  align-items: flex-start;
+  overflow-y: hidden;
+  background-color: #1f1136;
+  padding: 24px 16px;
+  margin-left: -24px;
 }
 
 @media screen and (min-width: 700px) {
   .wrapper {
-    flex-wrap: wrap;
     min-width: 200px;
     gap: 24px;
     margin: 24px auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    border-radius: 16px;
+    background-color: #321e52;
   }
 }
 
 .button {
-  cursor: pointer;
-  height: auto;
-  width: 100%;
+  cursor: grab;
+  height: 100%;
+  min-height: 160px;
+  width: 50px;
   font-size: 24px;
   padding: 16px;
   background-color: #c5b1e3;
-  color: #321e52;
-  border-radius: 32px;
-  border: 6px solid #c5b1e3;
+  color: #2cff5a;
+  font-weight: bold;
+  border-radius: 16px;
+  border: 1px solid #c5b1e3;
+  flex: 0 0 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+  align-content: flex-end;
+  text-align: left;
+  box-shadow: 0px 4px 24px 5px rgba(114, 114, 114, 0.15);
+  scroll-snap-align: center;
+}
+
+.button span {
+  background-color: #1f1136;
 }
 
 @media screen and (min-width: 700px) {
@@ -75,7 +103,7 @@
 
 .button:hover {
   background-color: #d5c2ff;
-  border: 6px solid #6f03ff;
+  border: 1px solid #6f03ff;
   border-radius: 8px;
   transition: border-radius 0.5s ease-in-out;
   font-weight: bold;
