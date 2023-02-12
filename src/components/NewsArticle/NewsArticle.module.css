@@ -9,12 +9,21 @@
   top: 0;
   transition: top 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 @media screen and (min-width: 700px) {
   .article {
     /* max-width: 320px; */
+    flex-direction: row;
+  }
+
+  .imgWrapper > * {
+    width: 350px;
+  }
+
+  .textWrapper {
+    width: 50%;
   }
 }
 
@@ -22,12 +31,8 @@
   
 }
 
-.imgWrapper > * {
-  width: 350px;
-}
-
 .textWrapper {
-  width: 50%;
+  width: auto;
   background-color: #f6f1ff;
   padding: 48px;
   border-radius: 32px;
