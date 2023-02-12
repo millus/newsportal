@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Header.module.css";
 
-function Header({ portalList, changePortal, portal, contentRef }) {
+function Header({ portalList, changePortal, portal }) {
   const firstImg = portal?.cover?.url;
   const [heading, setHeading] = React.useState("Nå");
   const [portalImg, setPortalImg] = React.useState(firstImg);
@@ -23,7 +23,6 @@ function Header({ portalList, changePortal, portal, contentRef }) {
               changePortal(portal);
               setHeading(portal.name);
               setPortalImg(portal.cover.url);
-              //   contentRef.current.scrollIntoView();
             }}
           >
             <span>{portal.name}</span>

@@ -1,6 +1,5 @@
 import React from "react";
 import { getAllPortals } from "../../helper/APIHelper";
-import logo from "../../logo.svg";
 import Header from "../Header/Header";
 import Portal from "../Portal/Portal";
 import "./App.css";
@@ -9,7 +8,6 @@ function App() {
   const [portalList, setPortalList] = React.useState([]);
   const [loading, setLoading] = React.useState(true);
   const [portal, setPortal] = React.useState(null);
-  const contentRef = React.useRef(null);
 
   React.useEffect(() => {
     getAllPortals().then((json) => {
@@ -34,9 +32,8 @@ function App() {
         portalList={portalList}
         changePortal={changePortal}
         portal={portal}
-        contentRef={contentRef}
       ></Header>
-      <div className="content" ref={contentRef}>
+      <div className="content">
         {portal ? (
           <Portal portalId={portal.id}></Portal>
         ) : (
