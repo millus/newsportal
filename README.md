@@ -21,7 +21,7 @@ Nettside som lar deg enkelt navigere mellom forskjellige portaler og gir deg en 
 - begrensning på at scroll med grab ikke fungerer på desktop, kan fikses med å legge til pil-knapper for å scrolle mellom portaler
 - kunne delt opp i flere mindre komponenter, f.eks laget button komponent
 - markering av valgt portal bør legges til for å være enda tydligere
-- ved mer tid så skulle alle fargekoder, margins, font-størrelser vært lagt inn som variabler
+- ved mer tid så skulle alle fargekoder, margins, font-størrelser, media-queries vært lagt inn som variabler
 
 
 ## Skjermbilde av nettsiden
