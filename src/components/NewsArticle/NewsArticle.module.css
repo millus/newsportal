@@ -63,12 +63,6 @@
   transition: max-height 0.3s ease-in-out;
 }
 
-@media screen and (min-width: 700px) {
-  .markup {
-    max-height: 140px;
-  }
-}
-
 .markup a {
   color: #6f03ff;
 }

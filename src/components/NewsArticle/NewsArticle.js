@@ -10,7 +10,7 @@ function NewsArticle({ article }) {
     article?.content[1]?.type === "MARKUP"
   );
   const numMarkup = hasPictures && hasMarkup ? 1 : 0;
-  const hasLongText = !!(article?.content[numMarkup]?.data.length > 440);
+  const hasLongText = !!(article?.content[numMarkup]?.data.length > 380);
 
   function createMarkup(str) {
     return {
