@@ -22,7 +22,6 @@ function NewsArticle({ article }) {
   }
   return (
     <article className={styles.article}>
-      {/* <a href={article?.related?.push?.url}> */}
       <div className={styles.imgWrapper}>
         {hasPictures && (
           <SvgImage
@@ -31,11 +30,12 @@ function NewsArticle({ article }) {
           ></SvgImage>
         )}
       </div>
-
       <div className={styles.textWrapper}>
         <h2 className={styles.title}>{article?.title}</h2>
         <div
-          className={`${styles.markup} ${hasLongText ? styles.longText : "" } ${isActive ? styles.expand : ""}`}
+          className={`${styles.markup} ${hasLongText ? styles.longText : ""} ${
+            isActive ? styles.expand : ""
+          }`}
           dangerouslySetInnerHTML={createMarkup(
             article?.content[numMarkup]?.data
           )}
@@ -46,7 +46,6 @@ function NewsArticle({ article }) {
           </button>
         )}
       </div>
-      {/* </a> */}
     </article>
   );
 }
