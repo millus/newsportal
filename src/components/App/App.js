@@ -2,6 +2,7 @@ import React from "react";
 import { getAllPortals } from "../../helper/APIHelper";
 import Header from "../Header/Header";
 import Portal from "../Portal/Portal";
+import Footer from "../Footer/Footer";
 import "./App.css";
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
           <h2>Beklager ingen portaler tilgjengelig.</h2>
         )}
       </div>
+      <Footer/>
     </div>
   );
 }

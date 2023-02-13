@@ -5,13 +5,12 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    margin: 0 auto;
-    margin-top: 18px;
+    margin: 18px auto;
 }
 
 @media screen and (min-width: 700px) {
     .grid {
         justify-content: left;
-        margin-top: 42px;
+        margin: 42px auto;
     }
 }
