@@ -9,5 +9,6 @@ Nettside som lar deg enkelt navigere mellom forskjellige portaler og gir deg en 
 4. Åpne [http://localhost:3000](http://localhost:3000)
 5. Les siste nytt :)
 
-### Skjermbilde av nettsiden
-![Screenshot 2023-02-13 at 01 28 41](https://user-images.githubusercontent.com/9111145/218346715-18909de1-0252-4f81-84db-0b71d307590d.png)
+## Skjermbilde av nettsiden
+
+![desktop](https://user-images.githubusercontent.com/9111145/218347447-d78ee832-cc4a-4710-8945-2b7c5eb69f1c.jpg)
