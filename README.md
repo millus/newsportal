@@ -10,7 +10,7 @@ Nettside som lar deg enkelt navigere mellom forskjellige portaler og gir deg en 
 5. Les siste nytt :)
 
 ## Forutsetninger
-- løsningen fungerer best med opptil 10-20 portaler
+- løsningen fungerer best med opptil 10-20 portaler på mobil, max 4 på dekstop pga scroll begrensning
 - skal det inn flere portaler så må navigasjon endres, legge til filter eller overkategorier f.eks
 - første kategori er alltid "nå"
 
