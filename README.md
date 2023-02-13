@@ -1,11 +1,13 @@
+# Nyhetsmeldinger
 
-In the project directory, you can run:
+Nettside som lar deg enkelt navigere mellom forskjellige portaler og gir deg en oversikt over siste nytt innenfor det tema du vil vite mer om. Dette er en web-app laget i React. 
 
-### `npm start`
+## For å starte
+1. Last ned prosjektet
+2. Gå inn i mappen newsportal
+3. I terminal skriv `npm start`
+4. Åpne [http://localhost:3000](http://localhost:3000)
+5. Les siste nytt :)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+### Skjermbilde av nettsiden
+![Screenshot 2023-02-13 at 01 28 41](https://user-images.githubusercontent.com/9111145/218346715-18909de1-0252-4f81-84db-0b71d307590d.png)
